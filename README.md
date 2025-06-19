@@ -12,6 +12,7 @@ This is an interactive Power BI dashboard built using the Superstore Sales datas
 
 ## 📂 Files Included:
 - `superstore_dashboard.pbix`: Main Power BI project
+- `Superstore_Sales.csv`: Source data
 
 
 
